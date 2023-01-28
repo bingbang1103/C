@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\邓志斌\代码.c\while 10.25\源.cpp(6,19): error C2440: “=”: 无法从“int (__cdecl *)(void)”转换为“int”
+D:\邓志斌\代码.c\while 10.25\源.cpp(6,12): message : 没有使该转换得以执行的上下文
