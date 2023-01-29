@@ -3,17 +3,17 @@
 int main()
 {
 	int age=80;
-	/*printf("ÇëÊäÈëÄêÁä£º",age);
+	/*printf("è¯·è¾“å…¥å¹´é¾„ï¼š",age);
 	scanf("%d\n",&age);*/
 	if (age < 18)
-		printf("Î´³ÉÄê£¡");
+		printf("æœªæˆå¹´ï¼");
 	else if (18 <= age && age < 18)
-		printf("ÇàÄê");
+		printf("é’å¹´");
 	else if (28 <= age && age < 50)
-		printf("×³Äê");
+		printf("å£®å¹´");
 	else if (50 <= age && age < 100)
-		printf("ÀÏÄê");
+		printf("è€å¹´");
 	else if (age >= 100)
-		printf("ÀÏÊÙĞÇ");
+		printf("è€å¯¿æ˜Ÿ");
 	return 0;
 }
