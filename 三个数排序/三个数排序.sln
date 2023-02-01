@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三个数排序", "三个数排序.vcxproj", "{ADC2D5FC-2298-48D0-A99E-9A5F98256116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Debug|x64.ActiveCfg = Debug|x64
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Debug|x64.Build.0 = Debug|x64
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Debug|x86.Build.0 = Debug|Win32
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Release|x64.ActiveCfg = Release|x64
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Release|x64.Build.0 = Release|x64
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Release|x86.ActiveCfg = Release|Win32
+		{ADC2D5FC-2298-48D0-A99E-9A5F98256116}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B472BE1A-BEB6-4175-B81D-C8DD0C0B3925}
+	EndGlobalSection
+EndGlobal
