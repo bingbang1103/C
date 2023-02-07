@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "登入设置", "登入设置.vcxproj", "{8DC8E8F4-552C-4444-B356-E97FC695C973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Debug|x64.ActiveCfg = Debug|x64
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Debug|x64.Build.0 = Debug|x64
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Debug|x86.Build.0 = Debug|Win32
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Release|x64.ActiveCfg = Release|x64
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Release|x64.Build.0 = Release|x64
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Release|x86.ActiveCfg = Release|Win32
+		{8DC8E8F4-552C-4444-B356-E97FC695C973}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36693FE-7D03-41A2-8321-EBEE630D0706}
+	EndGlobalSection
+EndGlobal
