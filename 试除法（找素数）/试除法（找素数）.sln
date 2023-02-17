@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法（找素数）", "试除法（找素数）.vcxproj", "{5912A478-80ED-4FEB-B47A-569674A67318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Debug|x64.ActiveCfg = Debug|x64
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Debug|x64.Build.0 = Debug|x64
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Debug|x86.ActiveCfg = Debug|Win32
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Debug|x86.Build.0 = Debug|Win32
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Release|x64.ActiveCfg = Release|x64
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Release|x64.Build.0 = Release|x64
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Release|x86.ActiveCfg = Release|Win32
+		{5912A478-80ED-4FEB-B47A-569674A67318}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6A8EC3-F793-4E0B-B857-B690864747F1}
+	EndGlobalSection
+EndGlobal
